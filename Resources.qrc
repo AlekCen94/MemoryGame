@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>batman.png</file>
+        <file>catwoman.jpg</file>
+        <file>Harley Quinn.jpg</file>
+        <file>joker.jpg</file>
+        <file>Mad Hatter.png</file>
+        <file>Mr. Freeze.png</file>
+        <file>ras Al Gul.jpg</file>
+        <file>riddler.png</file>
+        <file>scarecrow.png</file>
+        <file>talia.png</file>
+        <file>The Penguin.png</file>
+        <file>two face.jpeg</file>
+        <file>close.jpg</file>
+    </qresource>
+</RCC>
